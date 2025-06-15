@@ -1,3 +1,4 @@
+package src;
 class Student extends Person{
     private int rollNo;
     private String branch;
